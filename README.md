@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ian-Anthony
 
-<!--
-**zouarigordonian/zouarigordonian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Director of Product focused on building products across messaging, business solutions, and emerging markets.  
+I prototype ideas through lightweight code, AI APIs, and rapid experiments.
 
-Here are some ideas to get you started:
+### 🔧 What I build here
+- Small tools and experiments using AI APIs (Mistral, Gemini, and others)
+- Frontend prototypes for product concepts (React, Streamlit, Bubble integrations)
+- Data scripts for analysis, enrichment, and automation
+- Playgrounds for exploring new product ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Interests
+Product strategy, AI tooling, emerging markets, B2B messaging ecosystems, and rapid prototyping.
+
+### 🌱 Currently learning
+Experimenting with API-driven apps, agentic workflows, and practical automation tools.
+
+### 📫 Connect
+LinkedIn: www.linkedin.com/in/iananthonyzouari
